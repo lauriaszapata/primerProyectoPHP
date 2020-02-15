@@ -21,6 +21,9 @@ print("<br>"); // salto en linea
 echo("Mi Nombre es: " .$nombre. " Tengo " .$edad. " Años " );
 
 
+$costo = 5;
+
+
 
 
 
